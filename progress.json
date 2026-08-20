@@ -227,5 +227,14 @@
       "\"first-pilot\" should point to the first commit."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787206420.036689,
+    "completed_at": 1787206423.197971,
+    "comments": [
+      "\"first-pilot\" should point to the first commit."
+    ],
+    "status": "Incomplete"
   }
 ]
