@@ -152,5 +152,14 @@
       "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787205025.974455,
+    "completed_at": 1787205028.07488,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
