@@ -592,5 +592,14 @@
       "/Users/adenkoh/Desktop/University/CS2103/gitmastery-home/gitmastery-exercises/mix-messy-graph/user-docs"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787625531.801838,
+    "completed_at": 1787625534.707008,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'Add the search feature.' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
