@@ -619,5 +619,14 @@
       "Expected commit message of 'Add the search feature', got 'Add the search feature.' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787625664.504396,
+    "completed_at": 1787625665.896189,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
