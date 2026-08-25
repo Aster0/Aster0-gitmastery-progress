@@ -583,5 +583,14 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787625326.765903,
+    "completed_at": 1787625328.304743,
+    "comments": [
+      "/Users/adenkoh/Desktop/University/CS2103/gitmastery-home/gitmastery-exercises/mix-messy-graph/user-docs"
+    ],
+    "status": "Error"
   }
 ]
